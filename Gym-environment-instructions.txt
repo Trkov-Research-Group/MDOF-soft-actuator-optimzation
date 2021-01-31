@@ -1,0 +1,5 @@
+Note: For environments for DRL programs the environment must manually be placed into the gym folder
+
+Lib -> site-packages -> gym -> envs ->classic_control
+
+They will also need to be registered like a standard Gym environment locally.
