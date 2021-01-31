@@ -1,2 +1,4 @@
-# MDOF-soft-actuator-optimzation
-This repository contains the codes used in our work that concerns the design optimization of a novel multi-degree of freedom soft robotic actuator.
+# Design Optimization of a Pneumatic Soft Robotic Actuator 
+Soft robotic devices offer superior solutions for biomechanical engineering problems at the human-machine interface due to their compliant nature. To date limited research has explored the topic of surface manipulation which can be helpful in the prevention of pressure injuries. The codes in this repository are concerned with the shape optimzation of air chambers to achive maximal horizontal motion with minimal vertical motion from both an analytical model and a finite element based approach. We explore both the firefly algorithm and the deep determinisitc policy gradient (DDPG) coupled with a dervied analytical model, and DDPG couple with a finite element program in this repository.
+# Requirements
+The DDPG program requires pyansys and stablebaselines to be installed
