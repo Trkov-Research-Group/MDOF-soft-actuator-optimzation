@@ -3,7 +3,7 @@ Soft robotic devices offer superior solutions for biomechanical engineering prob
 
 
 
-![main-image](https://github.com/Trkov-Research-Group/MDOF-soft-actuator-optimzation/blob/main/Optimization_GIT_repo_figure.PNG)
+//![main-image](https://github.com/Trkov-Research-Group/MDOF-soft-actuator-optimzation/blob/main/Optimization_GIT_repo_figure.PNG)
 
 The model based approach considers the shown actuator as a system of cantilever beams connected by spring elements. The governing eqations for this as given in our paper and are used as the cost function in the firefly approach. In the DDPG based approach a vanilla gym structure is used with the model embedded into the step function. In the finite element based approach the system is modeled as a quadrilateral whose verticies can exist within fixed bounds in the semi-unsupervised learning problem. We reward larger horizontal motion and penalize vertical motion in this approach.
 
