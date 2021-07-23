@@ -11,4 +11,5 @@ The model based approach considers the shown actuator as a system of cantilever 
 The DDPG program requires pyansys and Stable Baselines for use. Please see the Gym instructions text file for an explaination of where to place the environment files.
 
 # Publication
-Our publication for this work is still under review and will be updated soon!
+The publication from this work is open access and is available at the following link:
+https://www.frontiersin.org/articles/10.3389/frobt.2021.639102/full
